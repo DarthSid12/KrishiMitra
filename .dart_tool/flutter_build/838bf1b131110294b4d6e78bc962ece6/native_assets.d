@@ -1,0 +1,1 @@
+ C:\\FlutterProjects\\flutter-ui-plant-app-main\\flutter-ui-plant-app-main\\.dart_tool\\flutter_build\\838bf1b131110294b4d6e78bc962ece6\\native_assets.yaml: 
